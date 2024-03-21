@@ -1,2 +1,3 @@
-BeautifulSoup==3.2.2
-transformers==4.39.0
+streamlit
+BeautifulSoup
+transformers
