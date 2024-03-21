@@ -2,5 +2,5 @@ setuptools
 wheel
 
 streamlit
-BeautifulSoup
+beautifulsoup4==4.12.2
 transformers
