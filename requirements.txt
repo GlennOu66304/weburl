@@ -1,2 +1,2 @@
-BeautifulSoup
-transformers
+BeautifulSoup==4.12.3
+transformers==4.39.0
